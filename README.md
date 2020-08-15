@@ -8,6 +8,8 @@ In this assignment, I used JavaScript, HTML, CSS and D3.js to create table dynam
 * A HTML webpage that displays a table created from the dataset (data.js) and appends new rows of data for each UFO sighting
 * The date form (with form field validation) is used to listen for events and search through the `date/time` column to find the rows that match user input
 * Filtered data visualized in the form of a bar chart using **_Plotly_**
+* Webpage : https://ionguha.github.io/javascript-challenge/UFO-level-1/index.html
 ### UFO-level-2
 * A HTML webpage that displays a table created using multiple `input` tags so that the user can set multiple filters and search for UFO sightings based on multiple criteria
 * Filtered data visualized in the form of a bar chart using **_Plotly_**
+* Webpage : https://ionguha.github.io/javascript-challenge/UFO-level-2/index.html
